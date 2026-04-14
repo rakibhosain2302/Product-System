@@ -202,7 +202,7 @@ function App() {
 
     return (
         <div className="min-h-screen w-full bg-gradient-to-br from-slate-100 to-slate-200 px-4 md:px-8 py-10 flex flex-col">
-            <div className="w-full bg-white shadow-sm border border-slate-200 p-4 md:p-6 rounded-none">
+            <div className="w-full bg-white shadow-sm border border-slate-200 p-4 md:p-6 rounded-lg">
                 <header className="mb-4 flex items-center justify-between gap-4">
                     <div>
                         {viewMode === "list" ? (
