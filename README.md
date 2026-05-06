@@ -20,7 +20,7 @@ This is a **Full Stack Product Management System** built using:
 
 ### 🔥 Main Feature:
 👉 English input দিলে automatically Bangla translation হয়ে যায়  
-👉 Product name, category, price সহ full CRUD system
+👉 Product name, category, price inculde full CRUD system
 
 ---
 
