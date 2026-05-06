@@ -19,7 +19,7 @@ This is a **Full Stack Product Management System** built using:
 - MySQL Database
 
 ### 🔥 Main Feature:
-👉 English input দিলে automatically Bangla translation হয়ে যায়  
+👉 English Giving input automatically Bangla translation
 👉 Product name, category, price inculde full CRUD system
 
 ---
