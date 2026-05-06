@@ -48,6 +48,7 @@ This is a **Full Stack Product Management System** built using:
 - React.js (Vite)
 - Axios
 - JavaScript (ES6)
+- Bootstrap
 
 ---
 
